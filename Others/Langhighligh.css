@@ -1,0 +1,55 @@
+pie {
+background-color:#0288d1;
+font-style: oblique;
+display: inline;
+padding: .2em .6em .3em;
+font-weight: bold;
+line-height: 1;
+color: #fff;
+text-align: center;
+white-space: nowrap;
+vertical-align: baseline;
+border-radius: .25em;
+}
+
+sp {
+background-color:#ef6c00;
+font-family: Times New Roman;
+display: inline;
+padding: .2em .6em .3em;
+font-weight: bold;
+line-height: 1;
+color: #fff;
+text-align: center;
+white-space: nowrap;
+vertical-align: baseline;
+border-radius: .25em;
+}
+
+lith {
+background-color:#00897b;
+font-family: Palemonas;
+display: inline;
+padding: .2em .6em .3em;
+font-weight: bold;
+line-height: 1;
+color: #fff;
+text-align: center;
+white-space: nowrap;
+vertical-align: baseline;
+border-radius: .25em;
+}
+
+lat {
+background-color:#00acc1;
+font-family: Trajan Pro;
+display: inline;
+padding: .2em .6em .3em;
+font-weight: bold;
+line-height: 1;
+color: #fff;
+text-align: center;
+white-space: nowrap;
+vertical-align: baseline;
+border-radius: .25em;
+}
