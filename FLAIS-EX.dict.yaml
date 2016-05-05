@@ -24,13 +24,17 @@ a	a
 å	a0
 ă	a\/
 ą	a`
+æ ae
 b	b
+β	bv
 c	c
 ć	c/
 ĉ	c/\
 ċ	c.
 č	c\/
 d	d
+ð	d-
+ḍ	d.
 e	e
 è	e\
 é	e/
@@ -44,6 +48,7 @@ e	e
 f	f
 g	g
 ģ	g'
+ġ	g.
 h	h
 ḥ	h.
 i	i
@@ -59,6 +64,7 @@ j	j
 k	k
 ḱ	k/
 ķ	k'
+k̇	k.
 l	l
 ḷ	l.
 ł	l/
@@ -68,6 +74,7 @@ n	n
 ń	n/
 ņ	n'
 ṇ	n.
+ṅ	n.
 ñ	n~
 o	o
 ò	o\
@@ -78,6 +85,7 @@ o	o
 ō	o-
 ŏ	o\/
 ø	o/
+œ oe
 p	p
 ᵽ	p-
 q	q
@@ -86,14 +94,18 @@ r	r
 ŕ	r/
 ř	r\/
 s	s
+ß	ss
 ś	s/
 ŝ	s/\
 ş	s`
 š	s\/
 ṣ	s.
+ṡ	s.
 ʃ	sh
 ʒ	zh
 t	t
+θ	th
+þ	th
 ț	t'
 ṭ	t.
 ʧ	ch
@@ -111,11 +123,13 @@ u	u
 v	v
 w	w
 x	x
+ɣ	xg
 y	y
 z	z
 ž	z\/
 ź	z/
 ż	z.
+ẓ	z.
 
 # uppercase symbols
 A	A
@@ -128,6 +142,7 @@ A	A
 Å	A0
 Ă	A\/
 Ą	A`
+Æ AE
 B	B
 C	C
 Ć	C/
@@ -135,6 +150,7 @@ C	C
 Ċ	C.
 Č	C\/
 D	D
+Ḍ	D.
 E	E
 È	E\
 É	E/
@@ -148,6 +164,7 @@ E	E
 F	F
 G	G
 Ģ	G'
+Ġ	G.
 H	H
 Ḥ	H.
 I	I
@@ -163,6 +180,7 @@ J	J
 K	K
 Ḱ	K/
 Ķ	K'
+K̇	K.
 L	L
 Ḷ	L.
 Ł	L/
@@ -173,6 +191,7 @@ N	N
 Ņ	N'
 Ṇ	N.
 Ñ	N~
+Ṅ	N.
 O	O
 Ò	O\
 Ó	O/
@@ -182,6 +201,7 @@ O	O
 Ō	O-
 Ŏ	O\/
 Ø	O/
+Œ OE
 P	P
 Ᵽ	P-
 Q	Q
@@ -195,9 +215,11 @@ S	S
 Ş	S`
 Š	S\/
 Ṣ	S.
+Ṡ	S.
 Ʃ	SH
 Ʒ	ZH
 T	T
+Þ	TH
 Ț	T'
 Ṭ	T.
 ʧ	CH
@@ -220,6 +242,7 @@ Z	Z
 Ž	Z\/
 Ź	Z/
 Ż	Z.
+Ẓ	Z.
 
 
 
